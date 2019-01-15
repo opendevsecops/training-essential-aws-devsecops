@@ -2,4 +2,13 @@
 
 # Essential DevSecOps
 
-This is meant to provide you with the esential skills to understand DevSecOps principles and how to apply them in real world scenarious.
+This is course designed to to provide participants with the esential skills in the field of DevSecOps.
+
+## Syllabus
+
+1. Introduction To AWS
+2. AWS Security Principles
+3. Offensive AWS Security
+  - common configuration pitfalls
+  - hacking into AWS
+4. Security Automation
