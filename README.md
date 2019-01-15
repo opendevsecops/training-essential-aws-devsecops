@@ -1,4 +1,6 @@
-> WARNING: This is work in progress.
+[![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
+
+> **WARNING**: This is work in progress.
 
 # Essential AWS DevSecOps
 
