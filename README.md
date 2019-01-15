@@ -1,6 +1,6 @@
 > WARNING: This is work in progress.
 
-# Essential DevSecOps
+# Essential AWS DevSecOps
 
 This is course designed to to provide participants with the esential skills in the field of DevSecOps.
 
