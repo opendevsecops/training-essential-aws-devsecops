@@ -36,7 +36,7 @@ This course is designed to expand your knowledge and perception of cloud securit
 
 ## Extras
 
-You will get your own personal AWS account which you will be using during the course. We will help you set it up and delete it no longer required.
+You will get your own personal AWS account which you will be using during the course. We will help you set it up and delete it no longer required. You will also 
 
 ## Lectors
 
