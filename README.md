@@ -10,7 +10,7 @@ We believe in thinking differently about cyber security. We believe that DevSecO
 
 DevSecOps (sometimes refered to SecDevOps) is an approach to defensive cyber security where traditional Security Operation (secops) are automated with Development Operations (devops) typically performed by the same team. The advantage of this approach over traditional practices is that the subject networks and human processes become more reslient to attacks. This is largely due to automation, security-first planning and resilience to changes that cause regressions.
 
-It is a mistake to think of DevSecOps as simply an automated way to build software. This is a very common misconception indeed. While it is true that creating an automated development pipeline for deliver secure software is part of the overal DevSecOps responsabilities, there is so much more to it.
+It is a mistake to think of DevSecOps as simply an automated way to build software. This is a very common misconception indeed. While it is true that creating an automated development pipeline for delivering secure software continiously is part of the overal responsabilities, DevSecOps help us achieve a level security resilience unseen before. When you are thinking of DevSecOps, think of how to setup honeypot networks as part of your core infrastructure, or perhaps how to create hack-back capabilities, continious target reconnaissance, fully automed monitoring and automated response to alerts and much more. All of these ideas are part of the DevSecOps process and philosophy.
 
 ## Syllabus
 
