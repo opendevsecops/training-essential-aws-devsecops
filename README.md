@@ -54,4 +54,4 @@ Fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSeC9Jn5j-Y_GPpq_VjPGxO-
 
 | [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSeC9Jn5j-Y_GPpq_VjPGxO-tjySSKICfdmEx_qZhnW6BNvGiA/viewform?usp=sf_link) |
 |---|
-|   |
+| ■■■■■■■■■■■■ |
