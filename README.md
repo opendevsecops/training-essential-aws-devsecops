@@ -36,11 +36,13 @@ This course is designed to expand your knowledge and perception of cloud securit
 
 ## Extras
 
-You will get your own personal AWS account which you will be using during the course. We will help you set it up and delete it no longer required. You will also 
+You will get your own personal AWS account which you will be using during the course. We will help you set it up and delete it if no longer required. We will also help you setup your github account and build your portfolio of DevSecOps projects.
 
-## Lectors
+## Instructors
 
 ### pdp
+
+pdp is founder and leading member of the [GNUCITIZEN](https://gnucitizen.org) Information Security Think Tank. He is a recognized information security researcher, security tools developer, penetration tester, frequent speaker at industry recognized events, and published author who has contributed to several best-selling books, numerous popular blogs and online magazines.
 
 ## Signup
 
