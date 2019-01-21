@@ -13,26 +13,34 @@ It is a mistake to think of DevSecOps as simply an automated way to build softwa
 
 ## The Course
 
-This course is designed to expand your knowledge and perception of cloud security technologies and practices targeting AWS infrastructures specifically. You will learn not only how to build automated security processes for detection and active defense but also learn by example how attacks work too. The most important aspect of the course is to help participants become more independent and creative in solving chalanging and building new technologies not covered by this course.
+This course is designed to expand your knowledge and perception of cloud security technologies and practices targeting AWS infrastructures specifically. You will learn not only how to build automated security processes for detection and active defense but also learn by example how attacks work too. The most important aspect of the course is to help participants become more independent and creative in solving challenging and building new technologies not covered by this course.
 
 ## Syllabus
 
 1. **Introduction To AWS**
  - Core Concepts
- - Identity and Access Managment
+ - Identity and Access Management
  - Setup, Architecture & Networking
- - Audit and Monitring
+ - Audit and Monitoring
  - Tools and Services
 2. **AWS Security Principles**
  - Security Internals
  - Attacks (OfSecDevOps)
- - Defense Mechanisms (DevSecOps)
+ - Defensive Mechanisms (DevSecOps)
 3. **Automation**
  - Scripting and SDKs
- - Cloudformation and Terraform
+ - CloudFormation and Terraform
 4. **Labs**
  - Building security resilient infrastructures
  - Building automated recon and hacking
+
+## Extras
+
+You will get your own personal AWS account which you will be using during the course. We will help you set it up and delete it no longer required.
+
+## Lectors
+
+### pdp
 
 ## Signup
 
