@@ -44,9 +44,9 @@ You will get your own personal AWS account which you will be using during the co
 
 pdp is founder and leading member of the [GNUCITIZEN](https://gnucitizen.org) Information Security Think Tank. He is a recognized information security researcher, [security tools developer](https://secapps.com), penetration tester, frequent speaker at industry recognized events, and published author who has contributed to several best-selling books, numerous popular blogs and online magazines.
 
-[Twitter](https://twitter.com/pdp)
-[GitHub](https://github.com/pdparchitect)
-[LinkedIn](https://www.linkedin.com/in/pdparchitect)
+* [Twitter](https://twitter.com/pdp)
+* [GitHub](https://github.com/pdparchitect)
+* [LinkedIn](https://www.linkedin.com/in/pdparchitect)
 
 ## Signup
 
