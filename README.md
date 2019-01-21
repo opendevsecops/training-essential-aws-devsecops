@@ -17,19 +17,23 @@ This course is designed to expand your knowledge and perception of cloud securit
 
 ## Syllabus
 
- 1. **Introduction To AWS**
-  - Core Concepts
-  - Identity and Access Managment
-  - Setup, Architecture & Networking
-  - Audit and Monitring
-  - Tools and Services
- 2. **AWS Security Principles**
-  - Security Internals
-  - Attacks (OfSecDevOps)
-  - Defense Mechanisms (DevSecOps)
- 3. **Automation**
-  - Scripting and SDKs
-  - Cloudformation and Terraform
- 4. **Labs**
-  - Building security resilient infrastructures
-  - Building automated recon and hacking
+1. **Introduction To AWS**
+ - Core Concepts
+ - Identity and Access Managment
+ - Setup, Architecture & Networking
+ - Audit and Monitring
+ - Tools and Services
+2. **AWS Security Principles**
+ - Security Internals
+ - Attacks (OfSecDevOps)
+ - Defense Mechanisms (DevSecOps)
+3. **Automation**
+ - Scripting and SDKs
+ - Cloudformation and Terraform
+4. **Labs**
+ - Building security resilient infrastructures
+ - Building automated recon and hacking
+
+## Signup
+
+Fill the form and we will [contact you](https://docs.google.com/forms/d/e/1FAIpQLSeC9Jn5j-Y_GPpq_VjPGxO-tjySSKICfdmEx_qZhnW6BNvGiA/viewform?usp=sf_link) shortly.
