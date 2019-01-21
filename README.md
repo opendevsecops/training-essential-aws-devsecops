@@ -50,4 +50,4 @@ pdp is founder and leading member of the [GNUCITIZEN](https://gnucitizen.org) In
 
 ## Signup
 
-Fill the [form)(https://docs.google.com/forms/d/e/1FAIpQLSeC9Jn5j-Y_GPpq_VjPGxO-tjySSKICfdmEx_qZhnW6BNvGiA/viewform?usp=sf_link) and we will contact you shortly.
+Fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSeC9Jn5j-Y_GPpq_VjPGxO-tjySSKICfdmEx_qZhnW6BNvGiA/viewform?usp=sf_link) and we will contact you shortly.
