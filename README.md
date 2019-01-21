@@ -26,7 +26,7 @@ This course is designed to expand your knowledge and perception of cloud securit
 2. **AWS Security Principles**
  - Security Internals
  - Attacks (OfSecDevOps)
- - Defensive Mechanisms (DevSecOps)
+ - Defense (DevSecOps)
 3. **Automation**
  - Scripting and SDKs
  - CloudFormation and Terraform
