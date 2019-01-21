@@ -1,7 +1,5 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
 
-> **WARNING**: This is work in progress.
-
 # Essential AWS DevSecOps
 
 We believe in thinking differently about cybersecurity. We believe that DevSecOps is fundamentally changing the way we build and defend computer networks and we believe there is a skills shortage. The way we must tackle the problem of the skills shortage is by training up and inspiring people to pursue lucrative careers in DevSecOps. We designed a training course for DevSecOps and we will be delighted if you can join us to make this vision a reality.
