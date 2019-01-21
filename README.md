@@ -1,4 +1,5 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/baf86965779a418aa32f7ccf8adaf39e)](https://www.codacy.com/app/OpenDevSecOps/training-essential-aws-devsecops?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opendevsecops/training-essential-aws-devsecops&amp;utm_campaign=Badge_Grade)
 
 # Essential AWS DevSecOps
 
